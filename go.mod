@@ -6,6 +6,7 @@ require (
 	github.com/operator-framework/operator-sdk v0.12.0
 	github.com/prometheus/common v0.4.1
 	github.com/spf13/pflag v1.0.3
+	k8s.io/apimachinery v0.0.0
 	k8s.io/client-go v11.0.0+incompatible
 	sigs.k8s.io/controller-runtime v0.3.0
 )
