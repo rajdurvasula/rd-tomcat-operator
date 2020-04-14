@@ -1,7 +1,7 @@
 package apis
 
 import (
-	"github.com/rajdurvasula/rd-tomcat-operator/pkg/apis/cache/v1alpha1"
+	"github.com/rajdurvasula/rd-tomcat-operator/tree/master/pkg/apis/cache/v1alpha1"
 )
 
 func init() {
